@@ -1,4 +1,4 @@
-# WiiNet
+# RiiNet
 WiiNet, revived
 
 
