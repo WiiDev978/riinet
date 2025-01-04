@@ -1,6 +1,8 @@
 # RiiNet
 WiiNet, revived
 
+https://wiidev978.github.io/riinet
+
 
 ## Features
 Right now, RiiNet contains 5 main features.
@@ -31,7 +33,7 @@ That is all for now, stay tuned for more updates on the project by joining the [
 ### Dependencies
 This is an incomplete, flawed list that will hopefully get more acccurate and helpful with time.
 
-We currently use:
+We currently don't use:
 - apache2
 - php8.1
 - php8.1-curl
