@@ -1,5 +1,6 @@
 # RiiNet
 WiiNet, revived
+WITH VIDEOS WORKING (RICKROLL)
 
 https://wiidev978.github.io/riinet
 
